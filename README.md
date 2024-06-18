@@ -1,4 +1,4 @@
-# Fix My Car - Vertex AI Search
+# RAg - Vertex AI Search
 
 This guide walks through how to deploy the Fix My Car app to GKE, using Vertex AI Search as the grounding data store.
 
